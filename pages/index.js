@@ -1,4 +1,4 @@
 function Home(){
-    return <h1>Eu vou comprar a PCP Javali 6.35mm xD</h1>
+    return <div><img src="https://pcpjavali.com.br/wp-content/uploads/2021/09/18.png"></img><br></br> <h1>Ainda vou comprar essa belezura</h1></div>
 }
 export default Home;
