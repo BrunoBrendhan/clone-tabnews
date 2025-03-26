@@ -6,7 +6,4 @@ function Home() {
     </div>
   );
 }
-function Teste() {
-  console.log("testando Indentação");
-}
 export default Home;
